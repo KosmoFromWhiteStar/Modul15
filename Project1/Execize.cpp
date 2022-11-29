@@ -119,6 +119,7 @@ void ex_4()
 	print_vec(arr);
 }
 
+
 int main()
 {
 	int choose = 0;
